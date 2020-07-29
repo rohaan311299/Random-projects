@@ -1,0 +1,37 @@
+body{
+	background-color: #000000;
+}
+h1{
+	color: #ffffff;
+	text-align: center;
+	padding: 20px;
+}
+div{
+	color: #ffffff;
+}
+button{
+	color: #000000;
+	background-color: #ffffff;
+	text-align: center;
+	margin-right: 10px;
+}
+.buttons{
+	text-align: center;
+}
+.display{
+	text-align: center;
+	font-size: 50px;
+	display: block;
+}
+nav a{
+	color: #ffffff;
+	padding: 10px;
+	border:1px solid;
+	margin-right: 10px;
+	background-color: #5cbdb9;
+	text-decoration: none;sss
+}
+nav{
+	float: right;
+	margin:10px;
+}
